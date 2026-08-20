@@ -3,7 +3,7 @@
 ### Powering Texoma. Connecting Tomorrow.
 ![alt text](https://github.com/city-of-lawton/the-fista/blob/release/veritris-axiom.png?raw=true) 
 
-Control Panel Demo: https://www.loom.com/share/a3f149c025e04b0594e9171fa4d3c73f
+Control Panel Demo: https://www.loom.com/share/513e0421cb6c499585ea1b98742488a0
 
 **Veritris Oklahoma Electric Power Company** is a strategic energy initiative of Veritris focused on building a software-defined energy, commercial power, wholesale electricity, and energy-infrastructure platform serving Oklahoma, the Texoma region, and ultimately the broader South-Central United States.
 
