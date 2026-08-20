@@ -1,7 +1,7 @@
 # Veritris Oklahoma Electric Power Company
 
 ### Powering Texoma. Connecting Tomorrow.
-![alt text](https://github.com/city-of-lawton/the-fista/blob/release/veritris-axiom.png?raw=true) 
+![alt text](https://github.com/city-of-lawton/the-fista/blob/release/oepc-full-logo-transparent.png?raw=true) 
 
 Control Panel Demo: https://www.loom.com/share/513e0421cb6c499585ea1b98742488a0
 
