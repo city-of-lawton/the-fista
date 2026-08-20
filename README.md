@@ -5,7 +5,7 @@
 
 Control Panel Demo: https://www.loom.com/share/513e0421cb6c499585ea1b98742488a0
 
-**Veritris Oklahoma Electric Power Company** is a strategic energy initiative of Veritris focused on building a software-defined energy, commercial power, wholesale electricity, and energy-infrastructure platform serving Oklahoma, the Texoma region, and ultimately the broader South-Central United States.
+![alt text](https://github.com/city-of-lawton/the-fista/blob/release/oepc-isotope-favicon.png?raw=true)  **Veritris Oklahoma Electric Power Company** is a strategic energy initiative of Veritris focused on building a software-defined energy, commercial power, wholesale electricity, and energy-infrastructure platform serving Oklahoma, the Texoma region, and ultimately the broader South-Central United States.
 
 This repository — **the-fista** — serves as a development, research, architecture, modeling, and documentation environment for the Veritris Energy platform and the Oklahoma Electric Power Company initiative.
 
