@@ -1,3 +1,5 @@
+![alt text](https://github.com/city-of-lawton/the-fista/blob/production/the-power-place.png?raw=true)
+
 # Veritris Oklahoma Electric Power Company
 
 ### Powering Texoma. Connecting Tomorrow.
