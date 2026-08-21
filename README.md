@@ -1,3 +1,5 @@
+![alt text](https://github.com/city-of-lawton/the-fista/the-power-place.png?raw=true) 
+
 # Veritris Oklahoma Electric Power Company
 
 ### Powering Texoma. Connecting Tomorrow.
@@ -5,7 +7,7 @@ _The Power Place_  -- Oklahoma's first and only white-label energy marketplace f
 
 (Now with ArcGIS!) Control Panel Demo: https://www.loom.com/share/1aaf1c10179046e69ec1b51f01e5187b
 
-![alt text](https://github.com/city-of-lawton/the-fista/blob/release/oepc-isotope-favicon.png?raw=true)  **Veritris Oklahoma Electric Power Company** is a strategic energy initiative of Veritris focused on building a software-defined energy, commercial power, wholesale electricity, and energy-infrastructure platform serving Oklahoma, the Texoma region, and ultimately the broader South-Central United States.
+ **Veritris Oklahoma Electric Power Company** is a strategic energy initiative of Veritris focused on building a software-defined energy, commercial power, wholesale electricity, and energy-infrastructure platform serving Oklahoma, the Texoma region, and ultimately the broader South-Central United States.
 
 This repository — **the-fista** — serves as a development, research, architecture, modeling, and documentation environment for the Veritris Energy platform and the Oklahoma Electric Power Company initiative.
 
