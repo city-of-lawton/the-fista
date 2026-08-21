@@ -1,4 +1,4 @@
-![alt text](https://github.com/city-of-lawton/the-fista/the-power-place.png?raw=true) 
+![alt text]([https://github.com/city-of-lawton/the-fista/the-power-place.png]
 
 # Veritris Oklahoma Electric Power Company
 
