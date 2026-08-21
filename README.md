@@ -1,7 +1,7 @@
 # Veritris Oklahoma Electric Power Company
 
 ### Powering Texoma. Connecting Tomorrow.
-[The Power Place](https:/veritris-energy.github.io/store) soon to be similar to ERCOT in Texas -- Oklahoma's first and only white-label energy marketplace for resellers and open market for consumers to purchase energy plans from the provider of their choice will be online shortly.
+_The Power Place_  -- Oklahoma's first and only white-label energy marketplace for resellers and open market for consumers to purchase energy plans from the provider of their choice will be online shortly. Check it out at (https://veritris-energy.github.io/store)
 
 (Now with ArcGIS!) Control Panel Demo: https://www.loom.com/share/1aaf1c10179046e69ec1b51f01e5187b
 
