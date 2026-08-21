@@ -1,7 +1,8 @@
 # Veritris Oklahoma Electric Power Company
 
 ### Powering Texoma. Connecting Tomorrow.
-_The Power Place_  -- Oklahoma's first and only white-label energy marketplace for resellers and open market for consumers to purchase energy plans from the provider of their choice will be online shortly. Check it out at (https://veritris-energy.github.io/store)
+_The Power Place_  -- Oklahoma's first and only white-label energy marketplace for resellers to have a storefront and showcase energy plans to customers will be online shortly. Check it out at (https://veritris-energy.github.io/place) 
+_The Power Store_ is the retail version for customers and coming online soon as well (https://veritris-energy.github.io/store), which will give customers the ability to pick and compare plans from a provider of their choice.
 
 (Now with ArcGIS!) Control Panel Demo: https://www.loom.com/share/1aaf1c10179046e69ec1b51f01e5187b
 
